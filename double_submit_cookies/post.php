@@ -30,7 +30,7 @@
 <html>
 
 <head>
-	<title>Cross Site Request Foregery Protection using Double Submit Cookies</title>
+	<title>Double Submit Cookies in CSRF Protection</title>
 	<link rel="stylesheet" href="styles.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script>

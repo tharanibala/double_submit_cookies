@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Cross Site Request Foregery Protection using Double Submit Cookies</title>
+	<title>Double Submit Cookies in CSRF Protection</title>
 	<link rel="stylesheet" href="styles.css">
 </head>
 
@@ -23,7 +23,7 @@
     </label>
   </div>
 
-  <div class="container" style="background-color:#f1f1f1">
+  <div class="container">
     <button type="button" class="cancelbtn">Cancel</button>
   </div>
   
